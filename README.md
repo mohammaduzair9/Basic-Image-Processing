@@ -1,17 +1,36 @@
 # Basic Digital Image Processing Tasks
+> This repository contains basic implementations of image processing algorithms in python.
 
-This repository contains basic implementations of image processing algorithms in python.
+## Required Libraries
+*	PIL
+```shell
+$ pip install pillow
+```
+*	opencv-python
+```shell
+$ pip install opencv-python
+```
 
-1. Gradient
-2. Image Negative
-3. Image Segmentation
-4. Centroid
-5. Connected Component Labelling
-6. Histogram Equalization
-7. Local Histogram Analysis
-8. Morphology
-9. Sharpening
-10. Skeletonization
-11. Smoothing
-12. XY Cuts
+## Algorithms
+
+### Gradient
+
+```shell
+$ python gradient.py
+```
+|Original|Gradient|
+|---|---|
+|![Gradient-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Gradient/lena.jpg)|![Gradient-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Gradient/gradient.jpg)|
+
+### Image Negative
+### Image Segmentation
+### Centroid
+### Connected Component Labelling
+### Histogram Equalization
+### Local Histogram Analysis
+### Morphology
+### Sharpening
+### Skeletonization
+### Smoothing
+### XY Cuts
 
