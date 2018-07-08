@@ -47,6 +47,14 @@ $ python negative.py lena.jpg rgb
 |![Rgb-Negative-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Image%20Negative/rgb.jpg)|![Rgb-Negative-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Image%20Negative/rgb_inverted.png)|
 
 ### Image Segmentation
+
+```shell
+$ python Segmentation.py
+```
+|Original|Segmented|
+|---|---|
+|![Segmented-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Image%20Segmentation/image.png)|![Segmented-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Image%20Segmentation/Capture3.PNG)|
+
 ### Centroid
 ### Connected Component Labelling
 ### Histogram Equalization
