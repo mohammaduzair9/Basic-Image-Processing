@@ -31,6 +31,13 @@ $ python negative.py binary.jpeg binary
 |---|---|
 |![Binary-Negative-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Image%20Negative/binary.jpg)|![Binary-Negative-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Image%20Negative/binary_inverted.png)|
 
+```shell
+$ python negative.py lena.jpg gray
+```
+|Original|Grayscale Negative|
+|---|---|
+|![Gray-Negative-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Image%20Negative/grayscale.png)|![Gray-Negative-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Image%20Negative/grayscale_inverted.png)|
+
 
 ### Image Segmentation
 ### Centroid
