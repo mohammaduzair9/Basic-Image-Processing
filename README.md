@@ -39,6 +39,13 @@ $ python negative.py lena.jpg gray
 |![Gray-Negative-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Image%20Negative/grayscale.png)|![Gray-Negative-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Image%20Negative/grayscale_inverted.png)|
 
 
+```shell
+$ python negative.py lena.jpg rgb
+```
+|Original|RGB Negative|
+|---|---|
+|![Rgb-Negative-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Image%20Negative/rgb.jpg)|![Rgb-Negative-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Image%20Negative/rgb_inverted.png)|
+
 ### Image Segmentation
 ### Centroid
 ### Connected Component Labelling
