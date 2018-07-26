@@ -65,6 +65,14 @@ $ python Centroid.py
 |![Centroid-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Centroid/Signature.png)|<table><tr><td>Top Left</td><td>Top Right</td></tr><tr><td>![Centroid-TopLeft](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Centroid/TopLeft.png)</td><td>![Centroid-TopRight](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Centroid/TopRight.png)</td></tr><tr><td>Bottom Left</td><td>Bottom Right</td></tr><tr><td>![Centroid-BottomLeft](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Centroid/BottomLeft.png)</td><td>![Centroid-BottomRight](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Centroid/BottomRight.png)</td></tr></table>|
 
 ### Connected Component Labelling
+
+```shell
+$ python ccl4.py
+```
+|Original|CCL4 Labelled|
+|---|---|
+|![CCL4-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Connected%20Component%20Labelling/input.png)|![CCL4-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Connected%20Component%20Labelling/ccl.png)|
+
 ### Histogram Equalization
 ### Local Histogram Analysis
 ### Morphology
