@@ -74,6 +74,14 @@ $ python ccl4.py
 |![CCL4-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Connected%20Component%20Labelling/input.png)|![CCL4-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Connected%20Component%20Labelling/ccl.png)|
 
 ### Histogram Equalization
+
+```shell
+$ python hist_eq.py
+```
+|Original|Histogram Equalized|
+|---|---|
+|![Hist_eq-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Histogram%20Equalization/hist2.tif)|![Hist_eq-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Histogram%20Equalization/high_contrast.png)|
+
 ### Local Histogram Analysis
 ### Morphology
 ### Sharpening
