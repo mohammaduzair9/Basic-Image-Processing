@@ -80,9 +80,14 @@ $ python hist_eq.py
 ```
 |Original|Histogram Equalized|
 |---|---|
-|![Hist_eq-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Histogram%20Equalization/hist2.tif)|![Hist_eq-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Histogram%20Equalization/high_contrast.png)|
+|![Hist-eq-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Histogram%20Equalization/hist2.tif)|![Hist-eq-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Histogram%20Equalization/high_contrast.png)|
 
 ### Local Histogram Analysis
+
+|Original|Local Histogram|
+|---|---|
+|![Local-Hist-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Local%20Histogram%20Analysis/mountains.jpg)|![Local-Hist-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Local%20Histogram%20Analysis/high_contrast_local_img.png)|
+
 ### Morphology
 ### Sharpening
 ### Skeletonization
