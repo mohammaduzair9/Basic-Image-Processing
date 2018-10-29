@@ -89,6 +89,14 @@ $ python hist_eq.py
 |![Local-Hist-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Local%20Histogram%20Analysis/mountains.jpg)|![Local-Hist-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Local%20Histogram%20Analysis/high_contrast_local_img.png)|
 
 ### Morphology
+
+```shell
+$ python Simple.py
+```
+|Original|Morphology|
+|---|---|
+|![Morphology-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Morphology/signature.png)|<table><tr><td>Erosion</td><td>Dilation</td></tr><tr><td>![Erosion](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Morphology/erosion.png)</td><td>![Dilation](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Morphology/dilation.png)</td></tr><tr><td>Opening</td><td>Closing</td></tr><tr><td>![Opening](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Morphology/opening.png)</td><td>![Closing](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Morphology/closing.png)</td></tr></table>|
+
 ### Sharpening
 ### Skeletonization
 ### Smoothing
