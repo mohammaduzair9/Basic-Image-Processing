@@ -98,6 +98,14 @@ $ python Simple.py
 |![Morphology-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Morphology/signature.png)|<table><tr><td>Erosion</td><td>Dilation</td></tr><tr><td>![Erosion](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Morphology/erosion.png)</td><td>![Dilation](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Morphology/dilation.png)</td></tr><tr><td>Opening</td><td>Closing</td></tr><tr><td>![Opening](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Morphology/opening.png)</td><td>![Closing](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Morphology/closing.png)</td></tr></table>|
 
 ### Sharpening
+
+```shell
+$ python sharpen.py
+```
+|Original|Sharpened|
+|---|---|
+|![Sharpened-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Sharpening/inp1.jpg)|![Sharpened-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Sharpening/sharpen.jpg)|
+
 ### Skeletonization
 ### Smoothing
 ### XY Cuts
