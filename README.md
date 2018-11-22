@@ -107,6 +107,12 @@ $ python sharpen.py
 |![Sharpened-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Sharpening/inp1.jpg)|![Sharpened-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Sharpening/sharpen.jpg)|
 
 ### Skeletonization
+
+```shell
+$ python Skeletonization.py
+```
+![Skeletionization](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Skeletonization/output.png)
+
 ### Smoothing
 ### XY Cuts
 
