@@ -136,6 +136,13 @@ $ python unsharp_masking.py
 |---|---|
 |![Unsharp-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/inp2.tif)|![Unsharp-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/unsharp_masking.jpg)|
 
+```shell
+$ python median.py
+```
+|Original|Median|
+|---|---|
+|![Unsharp-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/inp3.tif)|![Unsharp-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/median.jpg)|
+
 
 ### XY Cuts
 
