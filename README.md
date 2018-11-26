@@ -114,5 +114,35 @@ $ python Skeletonization.py
 ![Skeletionization](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Skeletonization/output.png)
 
 ### Smoothing
+
+```shell
+$ python AvergingFilter.py
+```
+|Original|Averaging Filter|
+|---|---|
+|![Averaging-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/inp1.tif)|![Averaging-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/averaging.jpg)|
+
+```shell
+$ python gaussian.py
+```
+|Original|Gaussian|
+|---|---|
+|![gaussian-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/inp1.tif)|![gaussian-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/gaussian.jpg)|
+
+```shell
+$ python unsharp_masking.py
+```
+|Original|Unsharp Masking|
+|---|---|
+|![Unsharp-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/inp2.tif)|![Unsharp-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/unsharp_masking.jpg)|
+
+```shell
+$ python unsharp_masking.py
+```
+|Original|Unsharp Masking|
+|---|---|
+|![Unsharp-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/inp2.tif)|![Unsharp-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/unsharp_masking.jpg)|
+
+
 ### XY Cuts
 
