@@ -129,6 +129,12 @@ $ python gaussian.py
 |---|---|
 |![gaussian-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/inp1.tif)|![gaussian-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/gaussian.jpg)|
 
+```shell
+$ python unsharp_masking.py
+```
+|Original|Unsharp Masking|
+|---|---|
+|![Unsharp-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/inp2.tif)|![Unsharp-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/unsharp_masking.jpg)|
 
 
 ### XY Cuts
