@@ -146,3 +146,10 @@ $ python median.py
 
 ### XY Cuts
 
+```shell
+$ python XY_Cuts.py
+```
+|Original|XY Cuts|
+|---|---|
+|![XY-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/XY_Cuts/XY-cuts.png)|![XY-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/XY_Cuts/xycut.png)|
+
