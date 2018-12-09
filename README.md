@@ -80,7 +80,7 @@ $ python hist_eq.py
 ```
 |Original|Histogram Equalized|
 |---|---|
-|![Hist-eq-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Histogram%20Equalization/hist2.tif)|![Hist-eq-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Histogram%20Equalization/high_contrast.png)|
+|![Hist-eq-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Histogram%20Equalization/hist2.jpg)|![Hist-eq-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Histogram%20Equalization/high_contrast.png)|
 
 ### Local Histogram Analysis
 
@@ -120,28 +120,28 @@ $ python AvergingFilter.py
 ```
 |Original|Averaging Filter|
 |---|---|
-|![Averaging-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/inp1.tif)|![Averaging-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/averaging.jpg)|
+|![Averaging-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/inp1.jpeg)|![Averaging-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/averaging.jpg)|
 
 ```shell
 $ python gaussian.py
 ```
 |Original|Gaussian|
 |---|---|
-|![gaussian-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/inp1.tif)|![gaussian-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/gaussian.jpg)|
+|![gaussian-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/inp1.jpeg)|![gaussian-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/gaussian.jpg)|
 
 ```shell
 $ python unsharp_masking.py
 ```
 |Original|Unsharp Masking|
 |---|---|
-|![Unsharp-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/inp2.tif)|![Unsharp-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/unsharp_masking.jpg)|
+|![Unsharp-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/inp2.jpeg)|![Unsharp-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/unsharp_masking.jpg)|
 
 ```shell
 $ python median.py
 ```
 |Original|Median|
 |---|---|
-|![Unsharp-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/inp3.tif)|![Unsharp-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/median.jpg)|
+|![Unsharp-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/inp3.jpeg)|![Unsharp-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Smoothing/median.jpg)|
 
 
 ### XY Cuts
