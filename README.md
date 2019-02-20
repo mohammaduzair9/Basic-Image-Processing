@@ -153,3 +153,12 @@ $ python XY_Cuts.py
 |---|---|
 |![XY-Original](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/XY_Cuts/XY-cuts.png)|![XY-Result](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/XY_Cuts/xycut.png)|
 
+### Template Matching
+
+```shell
+$ python TemplateMatching.py
+```
+|Template|Matched in Image|
+|---|---|
+|![Template](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Template%20Matching/template.png)|![MatchedTemplate](https://github.com/mohammaduzair9/Basic-Digital-Image-Processing/blob/master/Template%20Matching/matchedTemplate.png)|
+
